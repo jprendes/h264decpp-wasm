@@ -1,0 +1,3 @@
+[submodule "upstream/h264decpp"]
+	path = upstream/h264decpp
+	url = https://github.com/jprendes/h264decpp.git
